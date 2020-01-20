@@ -1,0 +1,63 @@
+.topSection {
+	border: 1px solid black; 
+	padding: 20px;
+
+}
+
+.topRightStuff {
+	text-align: right;
+	font-weight: bold;
+}
+
+.first {
+	border-bottom: 12px solid black;
+}
+
+.second {
+	font-weight: bold;
+	display: inline;
+}
+
+.n1 {
+	margin-left: 75%;
+}
+
+.n2 {
+	margin-left: 5%;
+}
+
+.secondThread {
+	display: inline;
+}
+
+.n3 {
+	margin-left: 84%;
+}
+
+.n4 {
+	margin-left: 6%;
+}
+
+#no1 {
+	margin-left: 78%;
+}
+
+#no {
+	margin-left: 7%;
+}
+
+.gray {
+	border: 1px solid gray;
+}
+
+.space {
+	margin-left: 10px;
+}
+
+.end {
+	border: 5px solid black;
+}
+
+
+
+
