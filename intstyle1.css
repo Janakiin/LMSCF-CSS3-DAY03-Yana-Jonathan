@@ -1,0 +1,62 @@
+*
+{
+
+}
+
+#container
+{
+ 	display: flex;
+	flex-flow: column;
+	flex-wrap: wrap;
+}
+
+.contdiv p
+{
+	border:  solid 1px;
+	flex-flow: column;
+
+
+}
+
+.contdiv p:hover
+{
+	
+}
+
+
+
+
+#p1
+{
+	transition: text-align 2s;
+}
+
+#p1:hover
+{
+	text-align: center;
+}
+
+#p2
+{
+	transition: transform 1s;
+	transition-timing-function: linear;
+}
+
+#p2:hover
+{
+	
+	transform: rotate(180deg);
+
+}
+
+#p3
+{
+	transition:  box-shadow, transform 0.5s;
+	
+}
+
+#p3:hover
+{
+	box-shadow: 100px 100px 100px grey;
+	transform:  rotateY(360deg);
+}
