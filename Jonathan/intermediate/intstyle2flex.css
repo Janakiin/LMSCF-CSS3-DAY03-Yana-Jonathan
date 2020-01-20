@@ -1,0 +1,223 @@
+*
+{
+	margin:  0px;
+	padding: 0px;
+}
+
+body
+{
+font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+		
+	border:  solid 5px;
+
+	display: flex;
+	justify-content: left;
+	flex-flow: column;
+
+	
+
+		
+	
+}
+
+#innercontainer
+{
+	margin: 0.5% 3%;
+
+}
+
+#container div
+{
+	
+}
+
+#div1
+{
+	font-size: 300%;
+
+	font-weight: bold;
+}
+
+#div2
+{
+
+}
+
+#div3
+{
+	
+}
+
+#line1
+{
+	border-bottom: solid 15px
+}
+
+#div4, #div5, #div6, #div7, #div8,
+#div9, #div10, #div11, #div12, #div13,
+#div14, #div15, #div16, #div17, #div18, #div20,
+#div21, #div22, #div23
+{
+	display: flex;
+	justify-content: center;
+
+
+
+}
+
+#div4 p, #div5 p, #div6 p, #div7 p, #div8 p,
+#div9 p, #div10 p, #div11 p,  #div12 p,  
+#div13 p,  #div14 p, #div15 p, #div16 p, #div17 p,
+#div18 p,  #div20 p, #div21 p, #div22 p
+{
+	
+	flex-grow: 1;
+	flex-basis: 30%;
+}
+
+
+#div22
+{
+	display: flex;
+	justify-content: center;
+}
+
+#div22 p
+{
+	
+	text-align: ;
+	flex-grow: 1;
+	flex-basis: 30%;
+}
+
+
+.pcenter
+{
+	text-align: center;
+}
+
+.pleft
+{
+	text-align: left;	
+}
+
+.pright
+{
+	text-align: right;	
+}
+
+.pdentright
+{
+	text-align: left;
+	text-indent: 15px;
+}
+
+#line0
+{
+	border-bottom: solid 15px
+}
+
+#line1
+{
+	border-bottom: solid 2px
+}
+
+#line2
+{
+	border-bottom: solid 2px grey;
+	margin-left: 15px;
+}
+
+
+
+#line3
+{
+	border-bottom: solid 7px;
+}
+
+#line4
+{
+	border-bottom: solid 2px;
+}
+
+#line5
+{
+	border-bottom: solid 2px grey;
+	margin-left: 15px;
+}
+
+#line6
+{
+	border-bottom: solid 2px grey;
+	margin-left: 15px;
+}
+
+#line7
+{
+	border-bottom: solid 2px;
+	
+}
+
+#line8
+{
+	border-bottom: solid 2px grey;
+	margin-left: 15px;
+}
+
+#line9
+{
+	border-bottom: solid 2px grey;
+	margin-left: 15px;
+}
+
+#line10
+{
+	border-bottom: solid 2px ;
+	
+}
+
+#line11
+{
+	border-bottom: solid 10px;
+	
+}
+
+#line12
+{
+	border-bottom: solid 2px grey;
+	
+}
+
+#line13
+{
+	border-bottom: solid 2px grey;
+	
+}
+
+#line14
+{
+	border-bottom: solid 2px grey;
+	
+}
+
+#line15
+{
+	border-bottom: solid 1px ;
+	
+}
+
+#line16
+{
+	border-bottom: solid 1px grey ;
+	
+}
+
+#line17
+{
+	border-bottom: solid 1px grey ;
+	
+}
